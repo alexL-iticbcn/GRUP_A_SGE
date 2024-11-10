@@ -1,38 +1,36 @@
 # GRUP_A_SGE
-
 <h1>Compras</h1>
 <h3>En este módulo podemos gestionar las compras de stock a los proveedores</h3>
-<p>Para comenzar a gestionar las compras, el primer paso es crear una solicitud de presupuesto. Esto nos permite registrar los productos que deseamos adquirir y a qué proveedor se les solicitará. Este paso inicial nos ayuda a tener un control adecuado sobre las compras a realizar, facilitando la comparación entre diferentes presupuestos.</p>
+<p>Creamos una solicitud de presupuesto</p>
 <img src="img/alexl-1.png">
-<p>El siguiente paso consiste en seleccionar la lista de proveedores a quienes enviaremos la solicitud de presupuesto. En este listado podemos elegir entre proveedores previamente registrados o añadir nuevos si es necesario. Esto asegura que podamos contar con múltiples opciones a la hora de realizar las compras.</p>
+<p>Seleccionamos la lista de proveedores</p>
 <img src="img/alexl-2.png">
-<p>Si necesitamos más proveedores en la lista, podemos ampliarla fácilmente. Esta opción nos da la flexibilidad de añadir proveedores adicionales según nuestras necesidades y asegurar que siempre tengamos suficiente variedad para escoger el mejor para cada compra.</p>
+<p>Ampliamos la lista</p>
 <img src="img/alexl-3.png">
-<p>Si aún no contamos con un proveedor adecuado, podemos crear uno nuevo añadiendo su información, como nombre, datos de contacto, y condiciones de pago. Esto nos permite tener un control más detallado sobre nuestros proveedores y personalizar la base de datos según nuestras necesidades.</p>
+<p>Creamos un nuevo proveedor y añadimos su respectiva información</p>
 <img src="img/alexl-4.png">
 <img src="img/alexl-5.png">
-<p>Para añadir productos, simplemente escribimos el nombre del producto. Si el producto no existe en la base de datos, podemos crearlo desde cero. Esto asegura que tengamos todos los artículos disponibles para la compra y un inventario completo.</p>
+<p>Para añadir productos, ponemos el nombre del producto y si no existe lo creamos</p>
 <img src="img/alexl-6.png">
 <img src="img/alexl-7.png">
-<p>Una vez creados los productos, pulsamos el botón de enlace interno para editar la información relacionada, como el precio de venta, coste y otros detalles relevantes. Este paso es crucial para garantizar que toda la información del producto esté correcta antes de proceder con la compra.</p>
+<p>Pulsamos el botón de enlace interno y editamos su información (precio de venta, coste, etc)</p>
 <img src="img/alexl-8.png">
 <img src="img/alexl-9.png">
-<p>Con todos los productos confirmados, procedemos a confirmar el pedido. Esto marca el inicio formal de la compra y garantiza que todos los productos sean solicitados al proveedor correspondiente.</p>
+<p>Con todo esto, cuando esten todos los productos confirmamos el pedido</p>
 <img src="img/alexl-10.png">
-<p>Una vez resuelta la solicitud y confirmado el pedido, podemos enviar la orden al proveedor o crear una factura como registro formal de la compra. Este paso es importante para finalizar la transacción y llevar un control de las compras realizadas.</p>
+<p>Una vez resuelta la solicitud podemos enviar el pedido al proveedor o crear una factura</p>
 <img src="img/alexl-11.png">
-
 <h1>Costes</h1>
-<h3>Este módulo ayuda a gestionar e identificar los pagos</h3>
-<p>Para registrar un pago, comenzamos creando una nueva factura. Esto nos permite ingresar todos los detalles del pago que se debe realizar, como el importe total, impuestos aplicables y la fecha límite de pago.</p>
+<h3>Este modulo ayuda a gestionar e identificar los pagos</h3>
+<p>Creamos una nueva factura</p>
 <img src="img/alexl-12.png">
-<p>A continuación, añadimos la información del cliente. Si el cliente ya está registrado, simplemente seleccionamos su perfil. Si es nuevo, podemos agregar sus datos, como nombre, dirección y condiciones de pago, para tener un registro completo de la transacción.</p>
+<p>Añadimos y/o creamos la información del cliente</p>
 <img src="img/alexl-13.png">
 <img src="img/alexl-14.png">
-<p>Después de ingresar los datos del cliente, añadimos los productos previamente creados a la factura y registramos las cantidades correspondientes. Es importante asegurarse de que todos los productos y cantidades estén correctos antes de proceder, para evitar errores en el pago final.</p>
+<p>Añadimos los productos anteriormente creados y guardamos la cantidad de este</p>
 <img src="img/alexl-15.png">
 <img src="img/alexl-16.png">
-<p>Por último, creamos el pago para registrar la factura como un pago en proceso. Esto nos permite hacer un seguimiento de las facturas pendientes y mantener un control adecuado sobre los pagos realizados y por realizar.</p>
+<p>Por ultimo creamos el pago para guardar la factura en proceso de pago</p>
 <img src="img/alexl-17.png">
 <img src="img/alexl-18.png">
 

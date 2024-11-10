@@ -1,4 +1,10 @@
 # GRUP_A_SGE
+
+# Parte A -> Francisco González (Empleados, Eventos)
+# Parte B -> Danial Javaid (Ventas, Calendario)
+# Parte C -> Alex Legido (Compras, Costes)
+# Parte D -> Ernesto Díaz (Puntos de Venta, Planificación)
+------------------------------------------------------
 <h1>Compras</h1>
 <h3>En este módulo podemos gestionar las compras de stock a los proveedores</h3>
 <p>Creamos una solicitud de presupuesto</p>
@@ -33,7 +39,7 @@
 <p>Por ultimo creamos el pago para guardar la factura en proceso de pago</p>
 <img src="img/alexl-17.png">
 <img src="img/alexl-18.png">
-
+--------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/6b70d470-0897-4776-afb8-8cc62558ec27)# GRUP_A_SGE
 
 MÒDUL DE VENTAS
@@ -50,16 +56,20 @@ Una vegada tot creat confirmarem la venta, en la captura on es mostra la fletxa 
 MÒDUL CALENDARI
 Primerament entrem al mòdul de calendari en ODOO.
 ![image](https://github.com/user-attachments/assets/42918b47-a0fd-458f-94e1-e8b1effb37a0)
+
 Una vegada dins li donarem a crear una reunió.
 ![image](https://github.com/user-attachments/assets/d6b2077c-2736-4b64-89bb-43a13a8ba512)
+
 A continuació, posarem l’assumpte de la reunió (en aquest cas és un menjar de negoci), indicarem el dia i l’hora d’inici de la reunió juntament amb la final també. Després la ubicació d’on serà aquesta reunió, indicar la privacitat de l’organitzador i indicar qui pot accedir a la reunió. Per acabar, seleccionar la via per a la qual s’enviarà el missatge per venir a la reunió.
 ![Captura de pantalla 2024-11-10 192354](https://github.com/user-attachments/assets/3203acf4-1ce1-4716-9f0e-ce9552459633)
+
 Quan seleccionem l’apartat de SMS ens apareix aquest sector per omplir-ho amb un missatge. Una vegada omplert li doneu a “enviar ahora”.
 ![image](https://github.com/user-attachments/assets/c3a800b9-9534-46f4-8e7c-4ccb11e0a542)
-Després d’enviar-ho haurem omplert el “formulari”, així que podem donar-li a enviar.
-![image](https://github.com/user-attachments/assets/50b4151a-87e8-4083-be48-d359291c9fb3)
 
-# GRUP_A_SGE
+Després d’enviar-ho haurem omplert el “formulari”, així que podem donar-li a enviar.
+
+![image](https://github.com/user-attachments/assets/50b4151a-87e8-4083-be48-d359291c9fb3)
+--------------------------------------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/183aa737-38ee-49cd-8467-08df6518de32)
 Per començar, anem al cercador d'aplicacions d'Odoo, cercarem l'apartat "Empleats" i l'instal·larem.
 
@@ -101,7 +111,6 @@ Ja el tenim creat i el podem visualitzar dins el menú de l'aplicació "Esdeveni
 ![11](https://github.com/user-attachments/assets/33584732-d10a-4b13-961f-fbc2debd8699)
 
 
-# GRUP_A_SGE
 <h1>Puntos de venta</h1>
 <h3>Cuando hablamos de punto de venta, nos referimos a la sucursal o establecimiento físico de un negocio, ya sea un restaurante, un bar o una tienda de regalos.</h3>
 <p>Escogemos el tipo de negocio que tenemos; en nuestro caso, un restaurante.</p>

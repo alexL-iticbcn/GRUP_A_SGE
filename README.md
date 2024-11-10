@@ -1,52 +1,22 @@
 # GRUP_A_SGE
-<h1>Puntos de venta</h1>
-<h3>Cuando hablamos de punto de venta, nos referimos a la sucursal o establecimiento físico de un negocio, ya sea un restaurante, un bar o una tienda de regalos.</h3>
-<p>Escogemos el tipo de negocio que tenemos; en nuestro caso, un restaurante.</p>
-<img src="img/image.png" alt="">
-<p>Iniciamos una sesión con nuestro restaurante.</p>
-<img src="img/image-1.png" alt="">
-<p>En este mapa de nuestro restaurante, podemos seleccionar cualquiera de las mesas disponibles para hacer un pedido.</p>
-<img src="img/image-2.png" alt="">
-<p>Seleccionamos los productos consumidos por el cliente.</p>
-<img src="img/image-3.png" alt="">
-<img src="img/image-4.png" alt="">
-<p>Los productos se añadirán a la cuenta conforme se vayan seleccionando, ajustando el precio total del pedido.</p>
-<img src="img/image-5.png" alt="">
-<p>Al terminar de añadir productos, hacemos clic en el botón de pago.</p>
-<img src="img/image-6.png" alt="">
-<p>Elegimos el método de pago.</p>
-<img src="img/image-7.png" alt="">
-<p>Hacemos clic en el botón de validar.</p>
-<img src="img/image-8.png" alt="">
-<p>Se generará una factura del pedido que acabamos de realizar, y podremos imprimirla si lo deseamos.</p>
-<img src="img/image-9.png" alt="">
-<p>A continuación, cerraremos la caja.</p>
-<img src="img/image-10.png" alt="">
-<p>Antes de cerrar la caja, se nos mostrarán todos los detalles de los pedidos realizados.</p>
-<img src="img/image-11.png" alt="">
-<p>Podemos consultar todas las sesiones de nuestros puntos de venta en 'Pagos > Sesiones'.</p>
-<img src="img/image-12.png" alt="">
-<img src="img/image-13.png" alt="">
-<h1>Planificación</h1>
-<h3>En el módulo de planificación, podremos asignar turnos y tareas a los empleados del restaurante.</h3>
- <p>Para crear un nuevo turno, hacemos clic en el botón 'Nuevo'.</p>
- <img src="img/image-14.png" alt="">
-<p>Introducimos el nombre del trabajador al que deseamos destinar el turno.</p>
- <img src="img/image-15.png" alt="">
- <p>Introducimos el rol que desempeñará en ese turno.</p>
- <img src="img/image-16.png" alt="">
- <p>A continuación, asignaremos la fecha de inicio y fin del turno, así como las horas que se emplearán en su realización.</p>
-  <img src="img/image-17.png" alt="">
-  <p>Cuando hayamos completado toda la información necesaria, haremos clic en el botón 'Guardar'.</p>
-  <img src="img/image-19.png" alt="">
-  <img src="img/image-20.png" alt="">
- <p>Si hacemos clic en el botón 'Publicar', nuestro empleado será notificado de su nuevo horario a través de correo electrónico.</p>
- <img src="img/image233.png" alt="">
-
- 
- 
-
-
-
-
-
+<h1>Compras</h1>
+<h3>En este módulo podemos gestionar las compras de stock a los proveedores</h3>
+<p>Creamos una solicitud de presupuesto</p>
+<img src="img/alexl-1.png">
+<p>Seleccionamos la lista de proveedores</p>
+<img src="img/alexl-2.png">
+<p>Ampliamos la lista</p>
+<img src="img/alexl-3.png">
+<p>Creamos un nuevo proveedor y añadimos su respectiva información</p>
+<img src="img/alexl-4.png">
+<img src="img/alexl-5.png">
+<p>Para añadir productos, ponemos el nombre del producto y si no existe lo creamos</p>
+<img src="img/alexl-6.png">
+<img src="img/alexl-7.png">
+<p>Pulsamos el botón de enlace interno y editamos su información (precio de venta, coste, etc)</p>
+<img src="img/alexl-8.png">
+<img src="img/alexl-9.png">
+<p>Con todo esto, cuando esten todos los productos confirmamos el pedido</p>
+<img src="img/alexl-10.png">
+<p>Una vez resuelta la solicitud podemos enviar el pedido al proveedor o crear una factura</p>
+<img src="img/alexl-11.png">

@@ -18,7 +18,7 @@
 <img src="img/image-7.png" alt="">
 <p>Hacemos clic en el botón de validar.</p>
 <img src="img/image-8.png" alt="">
-<p>"Se generará una factura del pedido que acabamos de realizar, y podremos imprimirla si lo deseamos.</p>
+<p>Se generará una factura del pedido que acabamos de realizar, y podremos imprimirla si lo deseamos.</p>
 <img src="img/image-9.png" alt="">
 <p>A continuación, cerraremos la caja.</p>
 <img src="img/image-10.png" alt="">
@@ -41,7 +41,8 @@
   <img src="img/image-19.png" alt="">
   <img src="img/image-20.png" alt="">
  <p>Si hacemos clic en el botón 'Publicar', nuestro empleado será notificado de su nuevo horario a través de correo electrónico.</p>
-  
+ <img src="img/image233.png" alt="">
+
  
  
 

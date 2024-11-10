@@ -16,7 +16,7 @@
 <p>Pulsamos el botón de enlace interno y editamos su información (precio de venta, coste, etc)</p>
 <img src="img/alexl-8.png">
 <img src="img/alexl-9.png">
-<p>Con todo esto, cuando esten todos los productos confirmamos el pedido</p>
+<p>Con todo esto, editamos las cantidades y cuando esten todos los productos, confirmamos el pedido</p>
 <img src="img/alexl-10.png">
 <p>Una vez resuelta la solicitud podemos enviar el pedido al proveedor o crear una factura</p>
 <img src="img/alexl-11.png">
